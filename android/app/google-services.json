@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590516459512",
+    "project_id": "jaara-health",
+    "storage_bucket": "jaara-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590516459512:android:35d32042315f0b600aa80d",
+        "android_client_info": {
+          "package_name": "com.jaara.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590516459512-2sj2k47ikqatjgc5bj0p3lpjf8a39365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaara.app",
+            "certificate_hash": "aee48baab3198af0b20a15af01343f1f87aa41b1"
+          }
+        },
+        {
+          "client_id": "590516459512-fvvau5h7g2j2pl23euut3imumc8pnf55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVp33xelGrFu7j5FK_PirE7YTCxNdFY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590516459512-fvvau5h7g2j2pl23euut3imumc8pnf55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
